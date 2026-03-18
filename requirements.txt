@@ -1,4 +1,5 @@
 fastapi
 uvicorn
-pandas
+pandas==2.2.2
 openpyxl
+python-multipart
